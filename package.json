@@ -4,9 +4,5 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {
-    "@prisma/client": "^5.8.0",
-    "prisma": "^5.8.0"
   }
 }
